@@ -3,4 +3,4 @@
 * Data obtained from : https://archive.ics.uci.edu/ml/datasets/Adult
 
 # Software
-* The analysis and implementation has been done using Python 3.6 version.
+* The analysis and implementation has been done using Python 3.6 version. The versions of the external libraries used are as mentioned below:
