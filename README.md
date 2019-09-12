@@ -5,7 +5,7 @@
 
 # Software
 * The analysis and implementation has been done using Python 3.6 version. The versions of the external libraries used are as mentioned below:
-- NumPy == 1.16.4
-- Pandas == 0.24.2
-- Matplotlib == 3.0.3
-- Scikit-Learn == 0.21.1
+-- NumPy == 1.16.4
+-- Pandas == 0.24.2
+-- Matplotlib == 3.0.3
+-- Scikit-Learn == 0.21.1
