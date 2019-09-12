@@ -4,8 +4,9 @@
 * Since the adult dataset has huge amount of data that I could not handle in my computer, I have performed the data analysis and classifier implementation using 1/3rd of the data obtained through random sampling.
 
 # Software
-* The analysis and implementation has been done using Python 3.6 version. The versions of the external libraries used are as mentioned below:
--- NumPy == 1.16.4
--- Pandas == 0.24.2
--- Matplotlib == 3.0.3
--- Scikit-Learn == 0.21.1
+* The analysis and implementation has been done using Python 3.6 version. 
+* The versions of the external libraries used are as mentioned below:
+1 NumPy == 1.16.4
+2 Pandas == 0.24.2
+3 Matplotlib == 3.0.3
+4 Scikit-Learn == 0.21.1
